@@ -2,7 +2,9 @@
 let lightBulbStatus = "On";
 
 if (lightBulbStatus === "On") {
-    console.log("Light bulb is On.")
-} else {
-    console.log("Light bulb is Off.")
+    console.log("Light bulb is On.");
+    
+} else  {
+    console.log("Light bulb is Off.");
+    
 }
